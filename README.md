@@ -47,3 +47,4 @@ Created by Martynas Ramonas as part of the Higher Diploma in Science in Data Ana
 - `data` - downloaded stock data
 - `plots` - generated plots
 - `requirements.txt` - required Python packages
+
