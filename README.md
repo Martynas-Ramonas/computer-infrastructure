@@ -17,12 +17,14 @@ Everything needed to run this notebook is included in this repository.
    An easy way to get Python is to use [uv](https://docs.astral.sh/uv/) or [Anaconda](https://www.anaconda.com/download).
 3. Install the required packages: 
 
-                                ```bash
-                                pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 4. Run the notebook:
 
-                    ```bash
-                    jupyter notebook problems.ipynb
+```bash
+jupyter notebook problems.ipynb
+```
 
 ## Dependencies
 
